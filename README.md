@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Nimra050304
-- 👀 I’m interested in... AI and web development
-- 🌱 I’m currently... learning how to build my AI models
-- 📫 How to reach me on discord...armin4046
 - 😄 Pronouns: ...she/her
 
 
